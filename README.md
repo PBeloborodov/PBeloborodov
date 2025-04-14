@@ -26,4 +26,3 @@ https://play.google.com/store/apps/details?id=com.elsspace&hl=ru
 ### В свободное от работы время
 
 ![Codewars](https://github.r2v.ch/codewars?user=Pavel_JS&name=true&top_languages=true&stroke=%23BB432C)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
