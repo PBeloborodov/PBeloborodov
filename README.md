@@ -9,7 +9,7 @@ https://play.google.com/store/apps/details?id=com.elsspace&hl=ru
 Основные технологии: JavaScript, TypeScript, React, React-Native, Node.js, Nest.js, GraphQL, MySQL.
 
 
-###React Native/React Developer
+### React Native/React Developer
 
 Разработка основных компонентов в приложении.
 - Разработка большинства экранов и их интеграция.
@@ -19,7 +19,7 @@ https://play.google.com/store/apps/details?id=com.elsspace&hl=ru
 - Сборка файлов .ipa и.apk для тестирования и их загрузки в TestFlight/Firebase App Distribution.
 - Поддержка и обновление проекта
 
-###Node/Nest
+### Node/Nest
 
 Разработка серверных приложений на Node.js с использованием NestJS проектирование и создание баз данных в MySQL, работа с TypeORM реализация GraphQL API: схемы, запросы, мутации, подписки (Subscriptions) оптимизация взаимодействия с MySQL, работа с миграциями, индексацией и связями между таблицами
 
